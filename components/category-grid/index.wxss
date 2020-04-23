@@ -15,7 +15,7 @@
 }
 
 .grid-item {
-    width: 200rpx;
+    width: 150rpx;
     display: flex;
     flex-direction: column;
     align-items: center;
