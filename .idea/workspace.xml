@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model/Activity.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -61,18 +57,34 @@
       <workItem from="1587609406323" duration="1125000" />
       <workItem from="1587611450446" duration="5612000" />
       <workItem from="1588413496334" duration="1690000" />
-      <workItem from="1588415218925" duration="1558000" />
+      <workItem from="1588415218925" duration="3534000" />
     </task>
+    <task id="LOCAL-00001" summary="1-8 重构Theme获取">
+      <created>1588419565850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588419565850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-8 重构Theme获取" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-8 重构Theme获取" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586275338087">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1586275338087" />
+    <state x="222" y="23" key="CommitChangelistDialog2" timestamp="1588419565425">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="222" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1588419565425" />
     <state width="1239" height="184" key="GridCell.Tab.0.bottom" timestamp="1586795526339">
       <screen x="0" y="23" width="1280" height="777" />
     </state>

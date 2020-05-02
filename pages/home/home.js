@@ -28,6 +28,7 @@ Page({
 
     const themeA = await theme.getHomeLocationA()
     const themeE = await theme.getHomeLocationE()
+    const themeESpuList = await Theme.getHomeLocationESpu()
 
     const bannerB = await Banner.getHomeLocationB()
     const grid = await Category.getHomeLocationC()

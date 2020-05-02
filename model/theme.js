@@ -25,6 +25,16 @@ class Theme {
     async getHomeLocationE() {
         return this.themes.find(t => t.name === ThemeE.locationE)
     }
+
+    static async getHomeLocationESpu() {
+        return Theme.getThemeSpuByName(Theme.locationE)
+    }
+
+    static async getThemeSpuByName(name) {
+        return await Http.request({
+            url: `theme/name/${name}/with_spu`
+        })
+    }
 }
 
 export {
