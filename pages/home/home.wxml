@@ -9,6 +9,12 @@
     </swiper>
 
     <s-category-grid grid="{{grid}}"></s-category-grid>
-
     <image class="activity" src="{{activityD.entrance_img}}"></image>
+
+    <s-spu-scroll
+            theme = "{{themeE}}"
+            spu-list="{{themeESpu}}"
+            wx:if="{{themeE.online}}">
+    </s-spu-scroll>
+
 </view>
