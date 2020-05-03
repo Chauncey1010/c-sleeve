@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
-    </list>
+    <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +53,7 @@
       <workItem from="1587609406323" duration="1125000" />
       <workItem from="1587611450446" duration="5612000" />
       <workItem from="1588413496334" duration="1690000" />
-      <workItem from="1588415218925" duration="11484000" />
+      <workItem from="1588415218925" duration="11897000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
@@ -82,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588427761147</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第3周 1-2">
+      <created>1588436905079</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588436905079</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +92,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1-8 重构Theme获取" />
     <MESSAGE value="2-1 scroll-view组件的灵活应用" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-1 scroll-view组件的灵活应用" />
+    <MESSAGE value="第3周 1-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="第3周 1-2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586275338087">
@@ -102,10 +104,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="274" y="73" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1280.777@0.23.1280.777" timestamp="1588431012516" />
-    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2" timestamp="1588427760840">
+    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2" timestamp="1588436904840">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1588427760840" />
+    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1588436904840" />
     <state width="1239" height="184" key="GridCell.Tab.0.bottom" timestamp="1586795526339">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
