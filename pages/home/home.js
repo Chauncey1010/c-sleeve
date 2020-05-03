@@ -36,14 +36,17 @@ Page({
       }
     }
 
+    const themeF= await theme.getHomeLocationF()
+
     const bannerB = await Banner.getHomeLocationB()
     const grid = await Category.getHomeLocationC()
     const activityD = await Activity.getHomeLocationD()
     this.setData({
       themeA,
+      bannerB,
       themeE,
       themeESpu,
-      bannerB,
+      themeF,
       grid,
       activityD
     })

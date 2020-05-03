@@ -17,4 +17,5 @@
             wx:if="{{themeE.online}}">
     </s-spu-scroll>
 
+    <image class="quality" src="{{themeF.entrance_img}}"></image>
 </view>
