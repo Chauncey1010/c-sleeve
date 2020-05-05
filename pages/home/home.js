@@ -41,9 +41,12 @@ Page({
     const bannerB = await Banner.getHomeLocationB()
     const grid = await Category.getHomeLocationC()
     const activityD = await Activity.getHomeLocationD()
+    const bannerG = await Banner.getHomeLocationG()
+
     this.setData({
       themeA,
       bannerB,
+      bannerG,
       themeE,
       themeESpu,
       themeF,

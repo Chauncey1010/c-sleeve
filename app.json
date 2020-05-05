@@ -1,6 +1,7 @@
 {
   "pages": [
-    "pages/home/home"
+    "pages/home/home",
+    "components/hot-list/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

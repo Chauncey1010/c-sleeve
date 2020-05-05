@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/banner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +61,10 @@
       <workItem from="1587611450446" duration="5612000" />
       <workItem from="1588413496334" duration="1690000" />
       <workItem from="1588415218925" duration="11897000" />
+      <workItem from="1588575320151" duration="43000" />
+      <workItem from="1588575407755" duration="367000" />
+      <workItem from="1588647395915" duration="63000" />
+      <workItem from="1588647463737" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
@@ -119,6 +125,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="274" y="73" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1280.777@0.23.1280.777" timestamp="1588431012516" />
+    <state x="333" y="134" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588575345188">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="333" y="134" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1588575345188" />
     <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2" timestamp="1588436904840">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -139,10 +149,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state width="1239" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1586795526339" />
-    <state x="233" y="133" key="IDE.errors.dialog" timestamp="1588432682401">
+    <state x="233" y="133" key="IDE.errors.dialog" timestamp="1588647449212">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="233" y="133" key="IDE.errors.dialog/0.23.1280.777@0.23.1280.777" timestamp="1588432682401" />
+    <state x="233" y="133" key="IDE.errors.dialog/0.23.1280.777@0.23.1280.777" timestamp="1588647449212" />
     <state x="283" y="67" key="SettingsEditor" timestamp="1588419078873">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -155,9 +165,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="305" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1586326862943" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1587620209931">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588647774644">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1587620209931" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588647774644" />
   </component>
 </project>
