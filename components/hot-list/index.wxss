@@ -1,4 +1,4 @@
-/* components/hot-list/index.wxss */
+@import "../../wxss/sleeve.wxss";
 
 .container {
     display: flex;
