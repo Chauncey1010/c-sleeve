@@ -1,1 +1,40 @@
 /* components/hot-list/index.wxss */
+
+.container {
+    display: flex;
+    margin-top: 30rpx;
+    padding-top: 40rpx;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+}
+
+.title {
+    width: 690rpx;
+    height: 90rpx;
+}
+
+.inner-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.left {
+    display: flex;
+    width: 346rpx;
+    height: 522rpx;
+}
+
+.right-size {
+    display: flex;
+    width: 400rpx;
+    height: 260rpx;
+}
