@@ -2,6 +2,7 @@
 
 
 import {Http} from "./http";
+import boolean from "../miniprogram_npm/lin-ui/common/async-validator/validator/boolean";
 
 class Paging {
 
@@ -10,6 +11,7 @@ class Paging {
     req
     locker = false
     url
+    moreData
 
     constructor(req, count=10, start=0) {
         this.start = start
@@ -18,16 +20,54 @@ class Paging {
         this.url = req.url
     }
 
-    getMoreDate() {
-        if(!this._getLocker()) {
+    async getMoreDate() {
+        if (!this.moreData) {
             return
         }
-        this._actualGetData()
+
+        if (!this._getLocker()) {
+            return
+        }
+        const data = await this._actualGetData()
         this._releaseLocker()
+        return data
     }
 
-    _actualGetData() {
-        Http.request(this.req)
+    async _actualGetData() {
+        const req = this._getCurrentReq()
+        let paging = await Http.request(req)
+        if (!paging) {
+            return null
+        }
+        if (paging.total === 0) {
+            return {
+                empty: true,
+                items: [],
+                moreData: false,
+                accumulator: []
+            }
+        }
+
+        this.moreData = Paging._moreData(paging.total_page, paging.page)
+        if (this.moreData) {
+            this.start += this.count
+        }
+        this._accumulate(paging.items)
+        return {
+            empty: false,
+            items: paging.items,
+            moreData: this.moreData,
+            accumulator: this.accumulator
+        }
+
+    }
+
+    _accumulate(items) {
+        this.accumulator = this.accumulator.concat(items)
+    }
+
+    static _moreData(totalPage, pageNum) {
+        return pageNum < totalPage -1
     }
 
     _getCurrentReq() {
@@ -54,4 +94,8 @@ class Paging {
     _releaseLocker() {
         this.locker = false
     }
+}
+
+export {
+    Paging
 }
