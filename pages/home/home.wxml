@@ -22,4 +22,8 @@
     <s-hot-list banner="{{bannerG}}"></s-hot-list>
 
     <image class="fashion" src="{{themeH.entrance_img}}"></image>
+
+    <view class="spu-buttom">
+        <image class="title-spu-bottom" src="/imgs/home/title@interest.png"></image>
+    </view>
 </view>
