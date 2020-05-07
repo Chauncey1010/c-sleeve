@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="第3周 1-2">
+    <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wxss/sleeve.wxss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/hot-list/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/hot-list/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/hot-list/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/hot-list/index.wxss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +63,7 @@
       <workItem from="1588575320151" duration="43000" />
       <workItem from="1588575407755" duration="367000" />
       <workItem from="1588647395915" duration="63000" />
-      <workItem from="1588647463737" duration="5364000" />
-      <workItem from="1588834073091" duration="42000" />
-      <workItem from="1588834162395" duration="486000" />
+      <workItem from="1588647463737" duration="4762000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
@@ -126,10 +128,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="333" y="134" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1588575345188" />
-    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2" timestamp="1588834849816">
+    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2" timestamp="1588436904840">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1588834849816" />
+    <state x="222" y="23" width="941" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1588436904840" />
     <state width="1239" height="184" key="GridCell.Tab.0.bottom" timestamp="1586795526339">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -150,14 +152,14 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="233" y="133" key="IDE.errors.dialog/0.23.1280.777@0.23.1280.777" timestamp="1588647449212" />
-    <state x="283" y="67" key="SettingsEditor" timestamp="1588834097918">
+    <state x="283" y="67" key="SettingsEditor" timestamp="1588419078873">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="283" y="67" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1588834097918" />
-    <state x="433" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588834852759">
+    <state x="283" y="67" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1588419078873" />
+    <state x="433" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588506471845">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="433" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1588834852759" />
+    <state x="433" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1588506471845" />
     <state x="305" y="186" key="run.anything.popup" timestamp="1586326862943">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
