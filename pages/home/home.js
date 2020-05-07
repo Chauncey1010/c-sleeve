@@ -21,6 +21,10 @@ Page({
     this.initAllData()
   },
 
+  async initBottomSpuList() {
+
+  },
+
   async initAllData() {
     const theme = new Theme()
     await theme.getThemes()

@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/home/home",
-    "components/hot-list/index"
+    "components/hot-list/index",
+    "components/spu-preview/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
