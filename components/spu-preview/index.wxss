@@ -23,7 +23,7 @@
 }
 
 .l-tag {
-    background-color: #DCEBE6;
+    background-color: #DCEBE6 !important;
     color: #157658 !important;
     height: 36rpx !important;
     padding-left: 6rpx !important;
