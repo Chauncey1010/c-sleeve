@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/wxs/price.wxs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/paging.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paging.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,7 @@
       <workItem from="1588647395915" duration="63000" />
       <workItem from="1588647463737" duration="4762000" />
       <workItem from="1588834992573" duration="7034000" />
-      <workItem from="1588957064051" duration="4888000" />
+      <workItem from="1588957064051" duration="6432000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
