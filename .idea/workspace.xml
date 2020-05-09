@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/spu.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/spu-paging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/paging.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/paging.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +67,8 @@
       <workItem from="1588575407755" duration="367000" />
       <workItem from="1588647395915" duration="63000" />
       <workItem from="1588647463737" duration="4762000" />
-      <workItem from="1588834992573" duration="6766000" />
+      <workItem from="1588834992573" duration="7034000" />
+      <workItem from="1588957064051" duration="4888000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
@@ -163,9 +169,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="305" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1586326862943" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1588647774644">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589029515754">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1588647774644" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1589029515754" />
   </component>
 </project>

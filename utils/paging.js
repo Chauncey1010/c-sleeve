@@ -11,7 +11,8 @@ class Paging {
     req
     locker = false
     url
-    moreData
+    moreData = true
+    accumulator = []
 
     constructor(req, count=10, start=0) {
         this.start = start
@@ -73,7 +74,7 @@ class Paging {
     _getCurrentReq() {
         let url = this.url
         const params = `start=${this.start}&count=${this.count}`
-        if (url.indexOf('?') !== -1) {
+        if (url.includes('?')) {
             url += '&' + params
         } else {
             url += '?' + params

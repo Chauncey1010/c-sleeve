@@ -20,14 +20,16 @@ Page({
 
   async onLoad() {
     this.initAllData()
+    this.initBottomSpuList()
   },
 
   async initBottomSpuList() {
     const paging = await SpuPaging.getLatestPaging()
-    const data = paging.getMoreDate()
+    const data = await paging.getMoreDate()
     if (!data) {
-      return 
+      return
     }
+    wx.lin.renderWaterFlow(data.items)
   },
 
   async initAllData() {
