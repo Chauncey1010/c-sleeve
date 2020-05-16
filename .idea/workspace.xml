@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47e90b27-bf55-40bd-8fc1-061ac4829a66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/models/fence-group.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/models/fence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/models/matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/activity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/spu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-preview/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-preview/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/spu-scroll/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/spu-scroll/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/Activity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/spu-paging.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/spu-paging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,13 +43,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,7 +85,13 @@
       <workItem from="1588647463737" duration="4762000" />
       <workItem from="1588834992573" duration="7034000" />
       <workItem from="1588957064051" duration="13342000" />
-      <workItem from="1589058265342" duration="16000" />
+      <workItem from="1589058265342" duration="322000" />
+      <workItem from="1589286392249" duration="754000" />
+      <workItem from="1589310508025" duration="590000" />
+      <workItem from="1589349130168" duration="574000" />
+      <workItem from="1589510615256" duration="2124000" />
+      <workItem from="1589524708378" duration="1620000" />
+      <workItem from="1589604427543" duration="7054000" />
     </task>
     <task id="LOCAL-00001" summary="1-8 重构Theme获取">
       <created>1588419565850</created>
@@ -119,6 +148,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="104" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1586275338087" />
+    <state x="375" y="200" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589606575768">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="375" y="200" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1589606575767" />
     <state x="274" y="73" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588431012516">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -151,10 +184,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="233" y="133" key="IDE.errors.dialog/0.23.1280.777@0.23.1280.777" timestamp="1588647449212" />
-    <state x="283" y="67" key="SettingsEditor" timestamp="1589044483491">
+    <state x="162" y="78" key="SettingsEditor" timestamp="1589609984138">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="283" y="67" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1589044483491" />
+    <state x="162" y="78" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1589609984138" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1589049912374">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -163,13 +196,17 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="433" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1588506471845" />
+    <state x="228" y="23" width="598" height="777" key="find.popup" timestamp="1589606465053">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="228" y="23" width="598" height="777" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1589606465053" />
     <state x="305" y="186" key="run.anything.popup" timestamp="1586326862943">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="305" y="186" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1586326862943" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589029515754">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589606492601">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1589029515754" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1589606492601" />
   </component>
 </project>

@@ -2,7 +2,8 @@
   "pages": [
     "pages/home/home",
     "components/hot-list/index",
-    "components/spu-preview/index"
+    "components/spu-preview/index",
+    "pages/detail/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",
